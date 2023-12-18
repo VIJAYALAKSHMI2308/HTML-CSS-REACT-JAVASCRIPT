@@ -1,0 +1,64 @@
+body{
+    background-color: navy;
+    font-family: 'Times New Roman', Times, serif;
+}
+.signup{
+width: 380px;
+height: 585px;
+margin: auto;
+background-color: white;
+border: 4px;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    outline: none;
+}
+.login-box{
+width: 360px;
+height: 320px;
+margin: auto;
+border-radius: 3px;
+background-color: white;
+}
+input[type="button"]{
+    width: 318px;
+    height: 35px;
+    margin-top: 20px;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.para2{
+    text-align: center;
+    color:black;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.para3{
+    color: #49c1a2;
+}
