@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eurolandcom</title>
+    <link rel="stylesheet" href="./euro.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/brands.min.css" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" >
+</head>
+<body>
+    <div class="div1">
+        <div class="div2">
+    <a href="#" id="id1">ABOUT US</a>
+    <a href="#" id="id1">SERVICES</a>
+    <a href="#" id="id1">TESTIMONIALS</a>
+    <a href="#" id="id1">EUROLAND IR</a>
+    <a href="#" id="id1">CAREERS</a>
+    <a href="#" id="id1">CONTACT</a>
+</div>
+    </div>
+    <div class="div3">
+        <div class="center">
+            <img src="./img/2img.jpeg" id="id2">
+        </div>
+        <div id="id3">
+            <h3 id="h1">About us</h3>
+            <p id="p1">
+                <b>Eurolandcom India</b> is a subsidiary company of Euroland IR located in Sweden. 
+                Euroland IR has been assisting companies in improving their Investor Relations by
+                 providing Best Practice tools and outstanding 24/7 service for years.
+                  In focusing on improving the web-based IR communication of our customers, we are able to
+                 provide the most technologically advanced and user-friendly solutions in the
+                  industry. Our services are second to none. Intuitive design enables comprehensive understanding of your equity story. 
+                  It is the blueprint to our tools. Making them accessible and interactive encourages users to get involved further with
+                   your financial history. This is how we engage investors.
+            </p>
+        </div>
+    </div>
+    <div class="div4">
+        <div><h1 id="heading">OUR EXPERT TEAM<br>
+            CREATE BEAUTIFUL IR TOOLS</h1>
+        </div>
+        <div class="row1">
+        <div class="div5">
+            <div>
+                <a href="#"id="share"> <h3>SHARE PRICE MONITOR </h3>
+                    <div class="div12">
+                <p id="our">Our share graph allows you to present your share performance
+                     in the most comprehensive and compelling way possible.
+                      We showcase your share in the best light.</p></a>
+                    </div>
+            </div>
+        </div>
+        <div class="div7">
+            <div>
+                <a href="#" id="key"><h3>Key Figures and Ratios</h3>
+            </div>
+            <div class="div13">
+                <p id="display">
+                    Display a comprehensive overview of your company's historical data in an interactive environment
+                     and allow users to undertake their own analysis of trends.
+                </p></a>
+            </div>
+        </div>
+        <div class="div8">
+            <div>
+                <a href="#" id="events"><h3>Events Calendar</h3>
+            </div>
+            <div class="div14">
+                <p id="calender">A comprehensive calendar that keeps your current and potential stakeholders in the loop.</p></a>
+            </div>
+        </div>
+        </div>
+        <div class="row2">
+        <div class="div9">
+            <div>
+                <a href="#" id="mobile"><h3 >Mobile IR Application</h3>
+            </div>
+            <div class="div15">
+                <p id="integrated">An integrated Investor Relations App that beautifully complements your IR website while improving your outreach to investors on the go.</p></a>
+            </div>
+        </div>
+        <div class="div10">
+            <div>
+                <a href="#" id="investment"><h3 >Investment Calculator</h3>
+            </div>
+            <div class="div16">
+                <p id="total">Our Total Share Return Tool puts a key aspect of your Equity story front and centre, making what you can offer potential stakeholders for their investment the focal point.</p></a>
+            </div>
+        </div>
+        <div class="div11">
+            <div>
+                <a href="#" id="market"><h3>Market Pulse</h3>
+            </div>
+            <div class="div17">
+                <p id="euroland">Euroland Market Pulse is a twitter application aimed at communicating share related information and performance to your investor community. </p></a>
+            </div>
+        </div>
+    </div>  
+    </div>
+    <div class="div18">
+        <div class="heading22"><h1 id="heading2">Our Prestigious Clients Love Us</h1></div>
+        <div class="div19">
+            <div class="div20"><h1 ><b>"</b></h1><p>Our Analysts like the Interactive Analysis Tool. We have recieved very good feedback from them. Several Investors have also sent us their appreciation on our new website. Communication with them is now faster and more accurate. Euroland does a great job updating our key information and presenting it in a very friendly and comprehensive way.</p></div>
+            <div class="div21"><h3>Antonio de Cárcer Díez<br>
+                Director, Investor Relations</h3></div>
+        </div>
+    </div>
+    <div class="div22">
+        <div><h1 id="clients">OUR CLIENTS</h1></div>
+        <div class="div23">
+            <marquee><img src="./img/4th img.jpg" id="img1">
+            <img src="./img/5th img.jpeg" id="img2">
+        <img src="./img/6th img.jpg" id="img3" >
+    <img src="./img/7th img.png" id="img4"> 
+<img src="./img/8th img.jpg" id="img5">
+<img src="./img/9th img.png" id="img6">
+<img src="./img/10th img.jpg" id="img5">
+<img src="./img/12th img.jpg" id="img6">
+<img src="./img/13th img.png" id="img5">
+<img src="./img/14th img.jpg" id="img6">
+<img src="./img/15th img.png" id="img5">
+
+
+    </marquee>
+    </div>
+    <div class="div24">
+        <div  class="div25"><h1 id="heading13">DOING THE RIGHT THING</h1></div>   
+        <div class="div26">
+            <div class="sub1">
+                <h3><b class="counter">30+</b></h3>
+                <p class="counter1">Years of Service</p>
+            </div>
+            <div class="sub2">
+                    <h3><b class="counter2">1100+</b></h3>
+                    <p class="counter3">Clients</p>
+            </div>
+            <div class="sub3">
+                    <h3><b class="counter4">>25</b></h3>
+                    <p class="counter5">Tools</p>
+                
+            </div>
+            <div class="sub4">
+                    <h3><b class="counter6">100%</b></h3>
+                    <p class="counter7">Satisfied Customers</p>
+            </div>
+        </div>
+    </div>
+    <div class="div27">
+         <div class="div28"><h1 id="ourheading"><b>OUR OFFICES GLOBALLY</b></h1></div> 
+         <div class="row6">
+            <div class="pic1">
+            <a href="#" id="atag"><h1 id="europe"><b><img src="./img/R.png" id="viji">Europe</b></h1></a> 
+            <p>Kronhusgatan 2D<br>
+                Gothenburg 41113<br>
+                Sweden<br>
+                +46 31105600</p>
+        </div>
+        <div class="pic2">
+            <a  href="#" id="atag1"><h1 id="dubai"><b><img src="./img/R.png" id="viji">Dubai</b></h1></a>
+                    <p>Indigo Icon Tower<br>
+                        Jumeirah Lake Towers<br>
+                        634305 Dubai<br>
+                        UAE<br>
+                        +971 44362374</p>
+                
+        </div>
+        <div class="pic3">
+            <a  href="#" id="atag2"><h1 id="sha"><img src="./img/R.png" id="viji">Shanghai</h1></a>
+                        <p>Jiaxing Building<br>
+                            Dongfang Road 877<br>
+                            Shanghai 200122<br>
+                            China<br>
+                            +86 216881 3591</p>
+        </div>
+        <div class="pic4">
+            <a  href="#" id="atag3"><h1 id="hong"><img src="./img/R.png" id="viji"> Kong</h1></a>
+            <p>7B One Capital Place,<br>
+                18 Luard Road, Wanchai<br>
+                Hong Kong<br>
+            </p>
+        </div>
+    </div>
+    <div class="row7">
+        <div class="pic5">
+            <a  href="#" id="atag4"><h1 id="tokyo"><img src="./img/R.png" id="viji">Tokyo</h1></a>
+            <p>Tamura Bldg. 3rd Floor, 1-1-7<br>
+                Kandaawajicho<br>
+                Chiyodaku<br>
+                Tokyo 101-0063<br>
+                Japan</p>
+        </div>
+        <div class="pic6">
+            <a  href="#" id="atag5"><h1 id="pili"> <img src="./img/R.png" id="viji">Philipines</h1></a>
+            <p>3rd floor, Westar Building<br>
+                #611 Shaw Boulevard,<br>
+                Pasig City<br>
+                Philippines</p>
+        </div>
+        <div class="pic7">
+            <a  href="#" id="atag6"><h1 id="bang"><img src="./img/R.png" id="viji">Bangalore</h1></a>
+            <p>Golden Square Bldg<br>
+                No. 372, 6th Cross<br>
+                Wilson Garden<br>
+                Bangalore – 560027<br>
+                India</p>
+        </div>
+        <div class="pic8">
+            <a  href="#" id="atag7"><h1 id="lon"><img src="./img/R.png" id="viji">London</h1></a>
+            <p>LABS House <br> 
+                15-19 Bloomsbury Way<br>
+                WC1A 2TH London<br>
+                United Kingdom<br>
+            </p>
+        </div>
+      </div>
+      <div class="row8">
+        <div class="pic9">
+            <a  href="#" id="atag8"><h1 id="Chennai"><img src="./img/R.png" id="viji">Chennai</h1></a>
+            <p>No.8-11, VOC 1st Main Road,<br>
+                Dr. Subbaraya Nagar, Kodambakkam<br>
+                Chennai - 600024 <br>
+                India</p>
+        </div>
+        <div class="pic9">
+            <a  href="#" id="atag8"><h1 id="estonia"><img src="./img/R.png" id="viji">Estonia</h1></a>
+            <p>Türi 10C, 11313 Tallinn,<br>
+                Estonia</p>
+            </div>
+            <div class="pic10">
+                <a  href="#" id="atag9"><h1 id="vietnam"><img src="./img/R.png" id="viji">Vietnam</h1></a>
+                <p>9th Floor, Viet Tower building,<br>
+                    1 Thai Ha street, Dong Da District,<br>
+                    Hanoi, Vietnam</p>
+                </div>
+                <div></div>
+    </div>
+    <div class="div29">
+        <div class="subdiv7"><div class="land" ><h2 class="landcom">Eurolandcom India</h2>
+        <p id="line">______________________</p>
+    </div>
+    <div><p id="para1">Eurolandcom is a subsidiary company of Euroland IR based in Sweden. We provide 
+        our clients with complete IR solutions, tailored to their specific needs. From startups 
+        to worldwide cooperations, we improve our clients' relationship with their investors, 
+        period.</p></div></div>
+        <div class="subdiv8"><div><h2 class="office">india office-contact</h2>
+        <p id="line">_______________________</p></div>
+    <div><p id="para2"><img src="./img/mapp.jpg" id="mapp"> -Chennai <a target="_blank" href="" id="dir">Directions</a><br>
+        No.8-11, VOC 1st Main Road<br>
+        Dr.Subbaraya Nagar, Kodambakkam<br>
+        Chennai - 600024. India<br><br><i class="fa fa-envelope"></i>mailus@euroland.com<br>
+        <i class="fa fa-phone-square" ></i>+91 (893) 981 8155</p></div></div>
+        <div class="subdiv9"><div><h2 class="we">we are social</h2>
+            <div class="div30">
+               <a target="_blank" href="" id="g"><i class="fa fa-facebook" id="fa"></i>Facebook</a>
+                <a target="_blank" href="" id="g"><i class="fa fa-twitter" ></i>Twitter</a>
+                <a target="_blank" href="" id="g"><i class="fa fa-linkedin"></i>Linkedin</a>
+            </div></div>
+    </div>
+    </div>
+    <div class="div31"><p id="copyright">copyright &copy; 2023 eurolandcom India</p></div>
+</body>
+</html>
