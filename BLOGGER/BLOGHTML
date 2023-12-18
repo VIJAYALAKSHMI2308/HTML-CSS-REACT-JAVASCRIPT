@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=`, initial-scale=1.0">
+    <title>Blogger</title>
+    <link rel="icon" href="./img1/bloggerimmm.jpg">
+    <link rel="stylesheet" href="./blogger.css">
+</head>
+<body>
+    <div class="div1">
+        <h2 > <img src="./img1/bloggerimmm.jpg" id="h"> <span id="hello">  Blogger </span>
+             <span class="blog1"><a href="" id="sign">sign in</a></span>
+            </h2>
+    </div>
+    <div class="div2">
+        <p id="para1"><b><br>Publish your passions, your way</p>
+       <p id="para2"> Create a unique and beautiful blog easily.<br></b><br>
+    <span class="blog"><b><a href="" target="blank" id="create" >Create your blog</a></span></p></b>
+    
+    </div>
+    <div class="div3">
+        <p id="para3"><br><br><br>
+            Choose the perfect design</p>
+            <p id="para4">Create a beautiful blog that fits your style.
+            Choose<br>  from a selection of easy-to-use templates – 
+            all<br> with flexible layouts and hundreds of background <br> images –
+            or design something new.</p>
+            
+    </div>
+    <div class="div4">
+        <blockquote><p id="para5"><br><br><br>Get a domain</p>
+            <p id="para6">Give your blog the perfect home. Get a blogspot.com domain or buy a<br>
+                 custom domain with just a few clicks.</p></blockquote>
+    </div>
+    <div class="div5">
+        <blockquote><br><br><br><br><p id="para7">Earn money</p> 
+            <p id="para8">Get paid for your hard work.<br> 
+                Google AdSense can automatically display relevant targeted<br>
+                 ads on your blog so that you can earn<br>
+                 income by posting about your passion.</blockquote></p>
+    </div>
+    <div class="div6">
+        <blockquote><br><br><br><br><p id="para9">Know your audience</p>
+            <p id="para10">Find out which posts are a hit with Blogger’s built-in analytics. 
+                You’ll see<br> where your audience is coming from and what they’re interested in. 
+                You <br> can even connect your blog directly to Google Analytics
+                 for a more<br> detailed look.</p></blockquote>
+    
+    </div>
+    <div class="div7">
+        <p id="para11">Hang onto your memories</p>
+            <p id="para12">Save the moments that matter.Blogger lets you  safely store thousands <br>
+                of posts, photos, and more with Google.</p >
+    </div>
+    <div class="div8">
+        <p id="para13"><br><br><br><br>Join millions of others</p>
+        <br>
+            <p id="para14">Whether sharing your expertise, breaking news,<br> or whatever’s on your mind, you’re<br> in good company on Blogger.
+                 Sign up to discover why millions of people<br> have published their passions here.</p>
+                 <br>
+        <p><span class="para15"><b><a href="" target="blank" id="lastcreate"><b>Create your blog</b></a></p></span>
+        
+    </div>
+    <div class="div9">
+        <div class="help">
+                <div id="he"><h2 id="i">Help</h2>
+                <p id="e">Help Center</p>
+            <p id="e">Help Forum</p>
+        <p id="e">Video Tutorials</p><br></div>
+                <div id="fe"><h2 id="i">Community</h2>
+                <p id="e">Blogger Buzz</p></div>
+                <div id="ge">
+                    <h2 id="i">Developers</h2>
+                    <p id="e">Blogger API</p>
+                    <p id="e">Developer Forum</p>
+                </div>
+    
+        </div>
+<hr>
+        <div class="of">
+            <div id="hi"><h2 id="e">Terms of Service |</h2></div>
+            <div id="hi"><h2 id="e">Privacy |</h2></div>
+            <div id="hi"><h2 id="e">Content Policy</h2></div>
+        </div>
+        <select id="va">
+            <option value="English">English</option>
+            <option value="Tamil">Tamil</option>
+            <option value="Malayalam">Malayalam</option>
+            <option value="Hindi">Hindi</option>
+            <option value="Kannada">Kannada</option>
+            <option value="Oriya">Oriya</option>
+        </select>
+        </div>
+    </div>
+</body>
+</html>
