@@ -1,0 +1,363 @@
+.div1{
+    display: flex;
+    justify-content: flex-end;
+    position: sticky;
+    top:0px;
+    border: 1px solid rgb(15,36,64);
+    height: 117px;
+    width: auto;
+    background-color: rgb(15,36,64);
+    background-image: url(./img/logo.png);
+    background-repeat: no-repeat;
+    background-size: 338px 73px;
+    background-position: 14px 22px;
+}
+.div2{
+    margin-right: 170px;
+    margin-top: 50px;
+    
+}
+#id1{
+    text-decoration: none;
+    color: white;
+    padding: 11px 11px;
+}
+#id1:hover{
+    color:rgb(15,36,64) ;
+    background-color: rgb(32,189,216);
+    border-radius: 4px;
+}
+.div3{
+    display: flex;
+    border: 1px solid black;
+    border: none;
+    height: 590px;
+    width: auto;
+    background-image: url(.//img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#id2{
+    margin-top: 68px;
+    margin-left: 63px;
+    background-size: 650px 460px;
+    background-repeat: no-repeat;
+}
+#id3{
+    border: 1px solid rgb(15,36,64);
+    height: 458px;
+    width: 474px;
+    margin: 68px 0px;
+    background-color: rgb(15,36,64) ;
+    color: white;
+    margin-right: 26px;
+    text-align: justify;
+}
+#h1, #p1{
+    margin-left: 33px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+#p1{
+    word-spacing: 6px;
+    padding: 10px;
+}
+.div4{
+    border: 1px solid red;
+    border: none;
+    height: 835px;
+    width: auto;
+}
+#heading{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 34px;
+    word-spacing: 0px;
+}
+.row1{
+    display:flex;
+    margin-left: 150px;
+}
+.div5,.div7,.div8{
+    border: 1px solid white;
+    height: 300px;
+    width: 330px;
+    padding: 11px;
+}
+.div5:hover,.div7:hover,.div8:hover{
+    box-shadow: 10px 10px 10px 10px #959b9c;;
+}
+.row2{
+    display:flex;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.div9,.div10,.div11{
+    border: 1px solid red;
+    border: none;
+    height: 300px;
+    width: 330px;
+    padding: 11px;
+}
+.div9:hover,.div10:hover,.div11:hover{
+    box-shadow: 10px 10px 10px 10px #959b9c;;
+}
+#share,#key,#events, #mobile, #investment, #market{
+    text-decoration: none;
+    color: #0f2440;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 1.5em 0;
+    padding-bottom: 14px;
+    min-height: 62px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+#our, #display, #calender,#integrated, #total, #euroland{
+    text-decoration: none;
+    color: #5a5c5e;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.div12, .div13, .div14,.div15,.div16,.div17{
+    margin-top: 73px;
+}
+.div18{
+    border: 1px solid red;
+    border: none;
+    height: 558px;
+    width: auto;
+    background-color: rgb(239,237,237);
+}
+#heading2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #0f2440;
+    font-size: 34px;
+    line-height: 113px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.heading22{
+    margin-top: 0px;
+}
+.div19{
+    border: 1px solid red;
+    border: none;
+    height: 310px;
+    width: 1063px;
+    margin-top: 0px;
+    margin-left: 160px;
+    background-image: url(./img/3nd\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: 241px 100px;
+    background-position: 0px 0px;
+}
+.div20{
+    margin-left: 247px;
+    margin-top: -34px;
+    font-size: 20px;
+    color: #858284;
+    line-height: 1.5em;
+    padding: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+.div21{
+    float: right;
+    color: rgb(32,189,216);
+    font-size: 20px;
+}
+.div22{
+    border: 1px solid red;
+    border: none;
+    height: 200px;
+    width: auto;
+}
+#clients{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.div23{
+    border: 1px solid red;
+    border: none;
+    height: 123px;
+    width: 991px;
+    margin-top: 0px;
+    margin-left:60px;
+    margin-right: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 39px;
+}
+#img1, #img2, #img3, #img4, #img5, #img6{
+    height:98px  ;
+    width: 166px;
+}
+.div24{
+    border: 1px solid red;
+    border: none;
+    height: 413px;
+    width: auto;
+    background:   url(./img/30yeimg.jpg), #0f2440 ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+#heading13{
+    text-align: center;
+    color: white;
+    line-height: 215px;
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+}
+.div26{
+    border: 1px solid red;
+    border: none;
+    height: 166px;
+    width: 1077px;
+    margin-left: 125px;
+    margin-top: -23px;
+    display: flex;
+    gap: 30px;
+}
+.sub1,.sub2,.sub3,.sub4{
+    border: 1px solid red;
+    border: none;
+    height: 164px;
+    width: 246px;
+    color: white;
+}
+.counter,.counter2,.counter4,.counter6{
+    font-size: 52px;
+    font-family: 'Josefin Sans', sans-serif;;
+    line-height: 36px;
+    margin-left: 71px;
+}
+.counter1,.counter3,.counter5,.counter7{
+    font-size: 10px;
+    font-family: 'Josefin Sans', sans-serif;;
+    line-height: 0px;
+    margin-left: 35px;
+    font-size: 21px;
+}
+.counter3,.counter5{
+    margin-left: 96px;
+}
+.div27{
+    border: 1px solid red;
+    border: none;
+    height: 800px;
+    width: auto;
+    background-color: rgb(34,58,90);
+}
+#viji{
+    width: 20px;
+    height: 14px;
+}
+.div28{
+    margin-top: -23px;
+}
+#ourheading{
+    text-align: center;
+    color: white;
+    line-height: 110px;
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+}
+.row6, .row7, .row8{
+    display: flex;
+    gap: 0px;
+    margin-left: 74px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+.pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8, .pic9, .pic10{
+    border: 1px solid red;
+    border: none;
+    height: 228px;
+    width: 186px;
+    margin-left: 53px;
+    margin-top: -19px;
+    color: white;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    gap: 0px;
+    
+    
+}
+#atag, #atag1, #atag2, #atag3, #atag4, #atag5, #atag6, #atag7, #atag8, #atag9{
+    text-decoration: none;
+    color: rgb(51,122,183);
+}
+#europe, #dubai, #sha, #hong, #tokyo, #pili, #bang, #lon, #Chennai, #vietnam,#estonia{
+     font-size: 28px;
+}
+.pic1, .pic2, .pic3, .pic4{
+    margin-top: -9px;
+}
+#europe:hover,#estonia:hover, #dubai:hover, #sha:hover, #hong:hover, #tokyo:hover, #pili:hover, #bang:hover, #lon:hover, #Chennai:hover, #vietnam:hover{
+ color: white;
+}
+#line{
+    color: white;
+}
+#mapp{
+    width: 16px;
+    height: 10px;
+}
+.div29{
+    display: flex;
+    border: 1px solid red;
+    border: none;
+    height: 357px;
+    width: auto;
+    background-color: rgb(15,36,64);
+}
+.subdiv7, .subdiv8,.subdiv9{
+    border: 1px solid red;
+    border: none;
+    height: 276px;
+    width: 345px;
+    margin-left: 125px;
+}
+.landcom, .office,.we{
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 88px;
+    color: white;
+    text-transform: uppercase;
+}
+#para1, #para2{
+    text-align: left;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+#dir{
+    text-decoration: none;
+    color: rgb(94, 148, 220);
+}
+#g{
+    text-decoration: none;
+    color: white;
+}
+.div30{
+    word-spacing: 17px;
+}
+#g:hover{
+    color: rgb(13, 165, 235);
+}
+.div31{
+    background-color: #0f2440;
+    height: 88px;
+    width: auto;
+    margin-top: -30px;
+}
+#copyright{
+    text-align: center;
+    line-height: 0px;
+    color: white;
+    background-color: #0f2440;
+    font-size: 21px;
+    font-family: 'Montserrat', sans-serif;
+}
