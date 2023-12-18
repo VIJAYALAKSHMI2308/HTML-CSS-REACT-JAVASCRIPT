@@ -1,0 +1,262 @@
+.div1{
+    border:1px solid brown ; 
+    background-color: brown;
+    height: 70px;
+    width: auto;
+    position: sticky;
+    top: 0;
+
+}
+
+#h{
+    width: 32px;
+    height: 32px;
+}
+#hello{  
+    line-height: -0.5;    
+}
+.blog1{
+    text-align: right;
+    float: right;
+}
+#sign:hover{
+    color: wheat;
+}
+
+#sign{
+   text-decoration: none;
+   color: white;
+}
+.div2{
+    border:1px solid brown ; 
+    height: 600px;
+    width: auto;
+    color: white;
+    background-color: brown;
+    background-image: url(./img1/two\ egg.png),url(./img1/egg\ beater.png),url(./img1/karandi.png),url(./img1/1st\ center.png),url(./img1/cherry.png),url(./img1/plate.png), url(./img1/tea\ filter.png),url(./img1/poori.png);
+    background-repeat: no-repeat;
+    background-position: -58px 398px  , -48px 263px ,-104px 147px ,301px 257px,  218px 262px , 1143px 495px, 1118px 336px, 1114px 170px;
+    background-size:236px 263px,168px 220px, 236px 254px, 650px 350px, 56px 74px, 269px 195px, 101px 146px, 261px 270px;
+    padding-left: 0%, 10%, 20%;
+   
+}
+#para1{
+    font-size: 40px;
+    text-align: center;
+}
+#para2{
+    font-size: 25px;
+    text-align: center;
+}
+#create:hover{
+    background-color: wheat;
+    padding-left: 10px; 
+    padding-right: 10px ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+
+}
+#create{
+    color: white;
+    background-color: chocolate;
+    padding-left: 10px; 
+    padding-right: 10px ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+#create{
+    text-decoration: none;
+}
+
+.div3{
+    color: white;
+    background-color: #FF8000;
+    border:1px solid red ; 
+    height: 600px;
+    width: auto;
+   background-image: url(./img1/2nd\ div\ brush.png),url(./img1/world.png),url(./img1/blog.png);
+    background-repeat: no-repeat;
+    background-position: 713px 83px,867px 382px,780px 275px;
+    background-size: 306px 187px, 500px 373px, 600px 345px;
+}
+
+#para3{
+    margin-left: 150px;
+    font-size: 40px;
+}
+#para4{
+    margin-left: 150px;
+    font-size: 20px;
+}
+.div4{
+    color: white;
+    background-color: brown;
+    border:1px solid red ; 
+    height: 600px;
+    width: auto;
+    background-image: url(./img1/y..png),url(./img1/wu.png),url(./img1/wwo.png);
+    background-position: 999px 328px, 899px 290px, 805px 280px;
+    background-size: 365px 260px,400px 336px,550px 195px;
+    background-repeat: no-repeat;
+}
+#para5{
+    margin-left: 150px;
+    font-size: 40px;
+}
+#para6{
+    margin-left: 150px;
+    font-size: 20px;
+}
+.div5{
+    color: white;
+    background-color: rgb(56,141,128);
+    background-image: url(./img1/4div.png),url(./img1/caldiv4.png),url(./img1/creditcarddiv4.png), url(./img1/4div\ dollar.png);
+    background-position: -1px 54px, 1040px 370px,765px 368px,1181px 300px;
+    background-repeat: no-repeat;
+    background-size: 434px 424px, 280px 308px, 350px 288px, 75px 75.77px;
+    border:1px solid rgb(56,141,128) ; 
+    height: 600px;
+    width: auto;
+}
+
+#para7{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 250px;
+}
+#para8{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 250px;
+}
+.div6{
+    border:1px solid rgb(87,119,131) ; 
+    height: 600px;
+    width: auto;
+    color: white;
+    background-color: rgb(87,119,131);
+    background-image: url(./img1/5divmap.png),url(./img1/four\ circle\ 5div.png),url(./img1/5div\ graph.png),url(./img1/5div\ dot.png);
+    background-size:451px 356px,340px 325px,425px 213px,439px 210px ;
+    background-repeat: no-repeat;
+    background-position:733px 69px,1165px 84px,732px 400px,1157px 399px ;
+}
+#para9{
+    margin-left: 110px;
+    font-size: 40px;
+}
+#para10{
+    margin-left: 110px;
+    font-size: 20px;
+}
+.div7{
+    border:1px solid red ; 
+    height: 600px;
+    width: auto;
+    color: white;
+    background-color: rgb(188,56,46);
+    background-image: url(./img1/6divfilm.png), url(./img1/6divfamily.png),url(./img1/6divletter.png);
+    background-size: 382px 252px,374px 254px,337px 333px;
+    background-repeat: no-repeat;
+    background-position:  608px 291px, 776px 185px,982px 161px;
+}
+#para11{
+    margin-top: 120px ;
+    margin-left: 120px;
+    font-size: 40px;
+}
+#para12{
+    margin-left: 120px;
+    font-size: 20px;
+}
+.div8{
+    border:1px solid red ; 
+    height: 600px;
+    width: auto;
+    color: white;
+    background-color: rgb(230,116,0);
+    text-align: center;
+    background-image: url(./img1/millions\ img.png);
+    background-position:-31px 125px;
+    background-size: 1456px 395px;
+    background-repeat: no-repeat;
+}
+#para13{
+    font-size: 40px;
+    text-align: center;
+}
+#para14{
+    font-size: 20px;
+    text-align: center;
+}
+#lastcreate{
+    color: white;
+    text-align: center;
+    background-color: rgb(47,69,79);
+    padding-left: 10px; 
+    padding-right: 10px ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+#lastcreate:hover{
+    background-color: wheat;
+    padding-left: 10px; 
+    padding-right: 10px ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+
+}
+#lastcreate{
+    text-decoration: none;
+}
+.div9{
+    border:1px solid rgb(47,69,79); 
+    height: 600px;
+    width: auto;
+    background-color:rgb(47,69,79) ;
+}
+.help{
+    display: flex;
+    text-align: justify;
+    align-content: space-around;
+}
+#he{
+    margin: 50px;
+    padding: 20px;
+
+}   
+#fe{
+    margin: 50px;
+    padding: 20px;
+}
+#ge{
+    margin: 50px;
+    padding: 20px;
+}
+#i{
+    color: white;
+}
+#e{
+    color:wheat;
+}
+#e:hover{
+    color: white;
+}
+.of{
+    display: flex;
+    text-align: justify;
+    align-content: space-around;
+}
+#hi{
+    margin: 30px;
+
+}
+#va{
+    color:white;
+    background-color: black;
+    padding: 9px;
+    margin-left: 39px;
+    border: 1px solid white;
+    line-height: 2em;
+}
