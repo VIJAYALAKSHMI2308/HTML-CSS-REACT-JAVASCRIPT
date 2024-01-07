@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rotating img</title>
+    <link rel="stylesheet" href="./rotating.css">
+</head>
+<body>
+    <div class="container">
+        <div class="images">
+            <img src="./rotatingimg/1.jpeg" >
+            <img src="./rotatingimg/2.jpeg"  >
+            <img src="./rotatingimg/4.jpeg" >
+            <img src="./rotatingimg/5.png" >
+            <img src="./rotatingimg/6.jpeg" >
+            <img src="./rotatingimg/Teething.jpg">
+
+        </div>
+
+    </div>
+</body>
+</html>
